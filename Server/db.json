@@ -1,0 +1,25 @@
+{
+  "Task": [
+    {
+      "title": "Student Attendance Management Tool",
+      "date": "2023-10-30",
+      "description": "A Student Attendance Management Tool is a software application or system designed to facilitate the efficient tracking and management of student attendance in educational institutions. It helps schools, colleges, and universities keep records of students' presence and absence in classes or courses.",
+      "skills": "React js",
+      "id": 1
+    },
+    {
+      "title": "Furniture Landing Website",
+      "date": "2023-10-31",
+      "description": "Needs to be complete within time limit. It should be have user-friendly application and some features also.",
+      "skills": "Angular",
+      "id": 2
+    },
+    {
+      "title": "Authentication Management Tool",
+      "date": "2023-11-10",
+      "description": "Login & Sign Up For client to validate that person valid or not.\nthis project needs to complete within deadline.\n\nIf any just contact me.",
+      "skills": "React Js , Node Js , Mysql , SQL",
+      "id": 3
+    }
+  ]
+}
