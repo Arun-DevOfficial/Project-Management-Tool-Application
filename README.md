@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+Application Preview and it runs on netlify : Click Below Link !
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link : https://6537cba35e22ce0c7157b447--gentle-sherbet-ae17e1.netlify.app/
+
+It will Take you to the application 
 
 ## Available Scripts
 
